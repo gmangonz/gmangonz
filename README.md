@@ -2,10 +2,10 @@
 <h1 align="center">Welcome! 👋</h1>
 
 <div align="center">
-<img src="https://github.com/gmangonz/gmangonz/blob/main/banner.gif" alt="Coder" width="800" height="313" />
+<kbd>
+  <img src="https://github.com/gmangonz/gmangonz/blob/main/banner.gif" alt="Coder" width="600" height="235"/>
+</kbd> <br><br>
 </div>
-<br/>
-
 
 
 <p align="center">
