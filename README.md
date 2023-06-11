@@ -1,9 +1,15 @@
 
-<h1 align="center">Hey! 👋</h1>
+<h1 align="center">Welcome! 👋</h1>
+
+<div align="center">
+<img src="https://github.com/gmangonz/gmangonz/blob/main/me.gif" alt="Coder" width="500" height="270" />
+</div>
+<br/>
+
+
 
 <p align="center">
     <b>Thank you for visiting my page!</b><br><br>
-        My name is German Gonzalez.<br>
         Feel free to explore my repositories and check out some of my projects. <br>
         I'm always open to collaboration and learning new things!<br>
 </p>
