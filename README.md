@@ -50,10 +50,9 @@
 <p align="center">👋</p>
 
 <div align="center">
-<img src="https://github.com/gmangonza/gmangonza/blob/master/goodbye.gif" alt="Coder" width="400" height="270" />
+<img src="https://github.com/gmangonz/gmangonz/blob/main/goodbye.gif" alt="Coder" width="400" height="270" />
 </div>
 <br/>
-
 
 
 <!--
