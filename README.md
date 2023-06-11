@@ -16,11 +16,6 @@
 
 - <i><b>✍️ Goals:</b></i> I would like to develop myself as a deep learning engineer to help push the boundaries in this field. So working to applying computer vision and machine learning on problems that have a real impact such as in self-driving cars, health care, medical imaging, military, or in any subset of robotics.
 
-<!-- <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
-</div>
-<br/> -->
-
 
 <h2> Knowledge 📇:</h2>
 
@@ -53,6 +48,14 @@
 </p>
 
 <p align="center">👋</p>
+
+<div align="center">
+<img src="https://github.com/gmangonza/gmangonza/blob/master/goodbye.gif" alt="Coder" width="400" height="270" />
+</div>
+<br/>
+
+
+
 <!--
 **gmangonz/gmangonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
