@@ -2,7 +2,7 @@
 <h1 align="center">Welcome! 👋</h1>
 
 <div align="center">
-<img src="https://github.com/gmangonz/gmangonz/blob/main/me.gif" alt="Coder" width="500" height="270" />
+<img src="https://github.com/gmangonz/gmangonz/blob/main/me.gif" alt="Coder" width="600" height="313" />
 </div>
 <br/>
 
