@@ -18,7 +18,7 @@
 
 - <i><b>👨‍💻 Currently:</b></i> MS Electrical Engineering student at Northeastern University. Specializing in Computer Vision, Machine Learning and Algorithms. Looking for any internship or co-op opportunities.
 
-- <i><b>💡Interests:</b></i> I have developed a passion for machine learning and deep learning. More specifically, I specialize in computer vision and enjoy learning anything new and discovering new applications concerning computer vision. Additional interests include Data Science and Reinforcement Learning.
+- <i><b>💡Interests:</b></i> I have developed a passion for machine learning and deep learning. More specifically, I specialize in computer vision and enjoy learning anything new and discovering new applications concerning computer vision. Additional interests include Robotics, Data Science, and Reinforcement Learning.
 
 - <i><b>✍️ Goals:</b></i> I would like to develop myself as a deep learning engineer to help push the boundaries in this field. So working to applying computer vision and machine learning on problems that have a real impact such as in self-driving cars, health care, medical imaging, military, or in any subset of robotics.
 
